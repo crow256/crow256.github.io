@@ -1,5 +1,6 @@
 :root {
-    --bg: #dedede;
+    --bg: #545F65;
+    
 }
 
 html {
@@ -17,9 +18,8 @@ body {
 
 nav {
     height: 30px;
-    background: #696969;
-    text-align: right;
-    padding: 8px;
+    text-align: center;
+    padding-bottom: 20px;
 }
 
 a {
@@ -37,5 +37,10 @@ main, article {
     padding: 10px;
     max-width: 800px;
     min-height: 600px;
-    background-color: #efefef;
+    background-color: #CCD4C7;
+}
+
+img {
+
+    max-width: 400px;
 }
